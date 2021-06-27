@@ -1,0 +1,5 @@
+
+Before removing duplicates:
+2 2 2 2 1 
+After removing duplicates:
+1 2 
